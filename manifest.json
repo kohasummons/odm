@@ -1,0 +1,20 @@
+{
+    "name": "Operation Daniel Manual",
+    "short_name": "ODM",
+    "start_url": ".",
+    "background_color": "#040404",
+    "theme_color": "#232323",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "Assets/images/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "Assets/images/logo512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
