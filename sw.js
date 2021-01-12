@@ -6,7 +6,6 @@ self.addEventListener("install", e => {
                 "./Assets/script/app.js",
                 "./Assets/style/powder.css",
                 "./Assets/images/1.jpg",
-                "./Assets/images/2.jpg",
                 "./Assets/images/logo192.png",
                 "./Assets/images/logo512.png",
         ]);
