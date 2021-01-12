@@ -23,7 +23,7 @@ var setdisplaynone;
 var openShowWithData;
 
 function randomImage(target){
-    var twizz = Math.ceil(Math.random() * 10);
+    var twizz = Math.ceil(Math.random() * 4);
     target.style.background = `url(Assets/images/${twizz}.jpg) #111`;
     target.style.backgroundSize = 'cover';
     target.style.backgroundPosition = '0 30%';
